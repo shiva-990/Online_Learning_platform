@@ -29,4 +29,16 @@ A modern, responsive online learning platform built using TypeScript, Tailwind C
 ---
 
 ## 📦 Project Structure
+project/
+│
+├── index.html # Main HTML file
+├── package.json # Project metadata and dependencies
+├── tsconfig.json # TypeScript configuration
+├── vite.config.ts # Vite configuration
+├── tailwind.config.js # Tailwind setup
+├── postcss.config.js # PostCSS setup
+├── himanth/ # Custom app data/configs
+│ ├── config.json
+│ └── prompt
+└── node_modules/ # Project dependencies
 
